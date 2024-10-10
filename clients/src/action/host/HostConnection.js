@@ -1,0 +1,1 @@
+export const Localhost = 'https://manpower-test-deploy.onrender.com';
